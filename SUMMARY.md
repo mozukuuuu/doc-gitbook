@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Overview ](README.md)
-* [Useful Links](useful-links.md)
+* [概要](README.md)
+* [便利なリンク](useful-links.md)
 * [Leverage 2.0 is composable!](leverage-2.0-is-composable.md)
 
 ## Protocol overview <a href="#overview" id="overview"></a>
